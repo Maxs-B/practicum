@@ -1,0 +1,15 @@
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.deps.json
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.runtimeconfig.json
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.pdb
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfoInputs.cache
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.AssemblyInfo.cs
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/obj/Debug/net7.0/refint/ConsoleApp1.dll
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.genruntimeconfig.cache
+/GIT/GeekBrains/Semenar_1/ConsoleApp1/obj/Debug/net7.0/ref/ConsoleApp1.dll
