@@ -1,0 +1,15 @@
+/GIT/GeekBrains/Homework/App_1/bin/Debug/net7.0/App_1
+/GIT/GeekBrains/Homework/App_1/bin/Debug/net7.0/App_1.deps.json
+/GIT/GeekBrains/Homework/App_1/bin/Debug/net7.0/App_1.runtimeconfig.json
+/GIT/GeekBrains/Homework/App_1/bin/Debug/net7.0/App_1.dll
+/GIT/GeekBrains/Homework/App_1/bin/Debug/net7.0/App_1.pdb
+/GIT/GeekBrains/Homework/App_1/obj/Debug/net7.0/App_1.csproj.AssemblyReference.cache
+/GIT/GeekBrains/Homework/App_1/obj/Debug/net7.0/App_1.GeneratedMSBuildEditorConfig.editorconfig
+/GIT/GeekBrains/Homework/App_1/obj/Debug/net7.0/App_1.AssemblyInfoInputs.cache
+/GIT/GeekBrains/Homework/App_1/obj/Debug/net7.0/App_1.AssemblyInfo.cs
+/GIT/GeekBrains/Homework/App_1/obj/Debug/net7.0/App_1.csproj.CoreCompileInputs.cache
+/GIT/GeekBrains/Homework/App_1/obj/Debug/net7.0/App_1.dll
+/GIT/GeekBrains/Homework/App_1/obj/Debug/net7.0/refint/App_1.dll
+/GIT/GeekBrains/Homework/App_1/obj/Debug/net7.0/App_1.pdb
+/GIT/GeekBrains/Homework/App_1/obj/Debug/net7.0/App_1.genruntimeconfig.cache
+/GIT/GeekBrains/Homework/App_1/obj/Debug/net7.0/ref/App_1.dll
