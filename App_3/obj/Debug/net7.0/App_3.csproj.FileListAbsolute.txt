@@ -1,0 +1,15 @@
+/GIT/GeekBrains/Homework/App_3/bin/Debug/net7.0/App_3
+/GIT/GeekBrains/Homework/App_3/bin/Debug/net7.0/App_3.deps.json
+/GIT/GeekBrains/Homework/App_3/bin/Debug/net7.0/App_3.runtimeconfig.json
+/GIT/GeekBrains/Homework/App_3/bin/Debug/net7.0/App_3.dll
+/GIT/GeekBrains/Homework/App_3/bin/Debug/net7.0/App_3.pdb
+/GIT/GeekBrains/Homework/App_3/obj/Debug/net7.0/App_3.csproj.AssemblyReference.cache
+/GIT/GeekBrains/Homework/App_3/obj/Debug/net7.0/App_3.GeneratedMSBuildEditorConfig.editorconfig
+/GIT/GeekBrains/Homework/App_3/obj/Debug/net7.0/App_3.AssemblyInfoInputs.cache
+/GIT/GeekBrains/Homework/App_3/obj/Debug/net7.0/App_3.AssemblyInfo.cs
+/GIT/GeekBrains/Homework/App_3/obj/Debug/net7.0/App_3.csproj.CoreCompileInputs.cache
+/GIT/GeekBrains/Homework/App_3/obj/Debug/net7.0/App_3.dll
+/GIT/GeekBrains/Homework/App_3/obj/Debug/net7.0/refint/App_3.dll
+/GIT/GeekBrains/Homework/App_3/obj/Debug/net7.0/App_3.pdb
+/GIT/GeekBrains/Homework/App_3/obj/Debug/net7.0/App_3.genruntimeconfig.cache
+/GIT/GeekBrains/Homework/App_3/obj/Debug/net7.0/ref/App_3.dll

@@ -1,0 +1,15 @@
+/GIT/GeekBrains/Homework/App_4/bin/Debug/net7.0/App_4
+/GIT/GeekBrains/Homework/App_4/bin/Debug/net7.0/App_4.deps.json
+/GIT/GeekBrains/Homework/App_4/bin/Debug/net7.0/App_4.runtimeconfig.json
+/GIT/GeekBrains/Homework/App_4/bin/Debug/net7.0/App_4.dll
+/GIT/GeekBrains/Homework/App_4/bin/Debug/net7.0/App_4.pdb
+/GIT/GeekBrains/Homework/App_4/obj/Debug/net7.0/App_4.csproj.AssemblyReference.cache
+/GIT/GeekBrains/Homework/App_4/obj/Debug/net7.0/App_4.GeneratedMSBuildEditorConfig.editorconfig
+/GIT/GeekBrains/Homework/App_4/obj/Debug/net7.0/App_4.AssemblyInfoInputs.cache
+/GIT/GeekBrains/Homework/App_4/obj/Debug/net7.0/App_4.AssemblyInfo.cs
+/GIT/GeekBrains/Homework/App_4/obj/Debug/net7.0/App_4.csproj.CoreCompileInputs.cache
+/GIT/GeekBrains/Homework/App_4/obj/Debug/net7.0/App_4.dll
+/GIT/GeekBrains/Homework/App_4/obj/Debug/net7.0/refint/App_4.dll
+/GIT/GeekBrains/Homework/App_4/obj/Debug/net7.0/App_4.pdb
+/GIT/GeekBrains/Homework/App_4/obj/Debug/net7.0/App_4.genruntimeconfig.cache
+/GIT/GeekBrains/Homework/App_4/obj/Debug/net7.0/ref/App_4.dll
